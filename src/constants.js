@@ -13,5 +13,18 @@ export const hobbies = [
   'Yachting',
   'Animation',
   'Hang out with friends',
-  'Street-art'
+  'Street-art',
+  'Slackline',
+  'Roller-scates',
+  'Via Ferrata',
+  'Camping',
+  'Woodworking',
+  'Gardening',
+  'Self-sustained terrarium',
+  'DIY Postcards',
+  'Yoga',
+  'Rope Park',
+  'Clothing design',
+  'Martial art',
+  'Calligraphy'
 ]
