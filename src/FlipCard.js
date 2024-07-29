@@ -2,9 +2,9 @@ import ReactCardFlip from 'react-card-flip';
 import {useState} from 'react'
 
 
-export function FlipCard({text}) {
+export function FlipCard({text, isFlippedInitial}) {
 
-  const [isFlipped, setIsFlipped] = useState(false)
+  const [isFlipped, setIsFlipped] = useState(isFlippedInitial)
   const handleClick = () => {
     setIsFlipped((prev) => !prev)
   }
