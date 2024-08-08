@@ -29,5 +29,7 @@ export const hobbies = {
   'Martial art': false,
   'Calligraphy': false,
   'Electronics': false,
-  'Machine Learning': false
+  'Machine Learning': false,
+  'Electric guitar': false,
+  'Drawing': false, 
 }
