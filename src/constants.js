@@ -46,6 +46,7 @@ export const hobbies = {
   'Teas': false,
   'Terrarium': false,
   'Via Ferrata': false,
+  'Voice acting': false,
   'Volunteering': false,
   'Woodworking': false,
   'Yachting': false,
