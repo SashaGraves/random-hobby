@@ -4,14 +4,10 @@
   "homepage": "https://sashagraves.github.io/random-hobby",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.3.1",
-    "react-card-flip": "^1.2.3",
-    "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react": "18.3.1",
+    "react-card-flip": "1.2.3",
+    "react-dom": "18.3.1",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -38,7 +34,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
-    "tailwindcss": "^3.4.6"
+    "gh-pages": "6.3.0",
+    "tailwindcss": "3.4.6"
   }
 }
