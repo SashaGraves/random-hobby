@@ -1,6 +1,7 @@
 export const hobbies = {
   'Animation': false,
   'Aquarium': true,
+  'Archery': true,
   'Astronomy': false,
   'Birdwatching': true,
   'Blood Donation': false,
@@ -12,6 +13,7 @@ export const hobbies = {
   'Dancing': true,
   'Diving': false,
   'DIY Postcards': false,
+  'DJ': true,
   'Drawing': false,
   'Electric guitar': false,
   'Electronics': true,
@@ -25,6 +27,7 @@ export const hobbies = {
   'Machine Learning': false,
   'Make-up art': false,
   'Martial art': false,
+  'Master DnD game': true,
   'Model figures': true,
   'Music Instrument': false,
   'Performance poi': false,
@@ -32,6 +35,7 @@ export const hobbies = {
   'Photography': false,
   'Pottery': false,
   'Puzzles': false,
+  'Reading': true,
   'Roller-skates': false,
   'Rope Park': false,
   'Running': true,
@@ -49,4 +53,5 @@ export const hobbies = {
   'Woodworking': false,
   'Yachting': false,
   'Yoga': false,
+  '3d printing': true,
 }
